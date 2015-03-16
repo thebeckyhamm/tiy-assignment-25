@@ -1,0 +1,24 @@
+{
+  "name": "tiy-assignment-25",
+  "version": "0.0.0",
+  "description": "React components",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Becky Hamm",
+  "license": "ISC",
+  "devDependencies": {
+    "underscore": "~1.8.2",
+    "gulp-declare": "~0.3.0",
+    "gulp-concat": "~2.5.2",
+    "gulp-wrap": "~0.11.0",
+    "gulp-notify": "~2.2.0",
+    "gulp-plumber": "~1.0.0",
+    "gulp-handlebars": "~4.0.0",
+    "gulp": "~3.8.11",
+    "gulp-less": "~3.0.1",
+    "gulp-react": "~3.0.1",
+    "main-bower-files": "~2.6.2"
+  }
+}
